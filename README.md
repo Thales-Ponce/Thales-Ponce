@@ -31,7 +31,7 @@ Conseguir uma oportunidade de **Estágio QA** para aplicar meus conhecimentos, a
 
 - ✅ Selenium WebDriver
 - ✅ Cypress
-- ✅ Postman
+- ✅ Postman/SQL
 - ✅ Git e GitHub
 - ✅ Java / JavaScript
 - ✅ VSCode / Eclipse
