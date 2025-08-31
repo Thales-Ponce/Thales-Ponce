@@ -1,57 +1,37 @@
 # 👋 Olá! Eu Me chamo Thales Ponce
 
-🎯 Estou em transição de carreira e atualmente me desenvolvendo na área de **Quality Assurance(QA)** com foco em garantir a qualidade de produtos e boas experiências para os usuários.
+🎯Estágio em Análise e Desenvolvimento de Sistemas, com foco em aprendizado contínuo,
+diagnóstico de problemas e implementação de soluções tecnológicas que contribuam para a
+inovação e eficiência da empresa.
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre mim  ## 
 
 - 🎓 Estudante Análise e Desenvolvimento de Sistemas
-- 🧠 Dedicado **Testes Manuais e Automatizados**
-- 🧪 Experiência Básica com **Selenium**, **Cypress** , **Postman**e**SQL**
-- 💻 Estudando linguagens como **Java** e **JavaScript**
-- 📌 Familiarizado com **Git/GitHub**, controle de versão e metodologias ágeis (**Scrum/Kanban**)
-- 🔄 Realizando testes de **API**, testes funcionais, testes exploratórios e de regressão
+- 🧠 Dedicado **Testes Manuais e Automatizados**Coceitos Básicos em Redes 
+- 🧪 Experiência Básica com  *Cypress* , *MySQL*  *JavaScript*, *Python* 
+- 🌐 - Redes e Dados: Conceitos básicos
+- 🛠️ Ferramentas: Notion, Trello, Pacote Office (Excel, Word, PowerPoint – Básico/Intermediário)
+---
+
+## 💡 Motivação  ## 
+
+Desde jovem me interesso por tecnologia. Quando experienciei falhas em softwares, especialmente em jogos, passei a querer entender como os erros acontecem e como preveni-los. Isso me motivou a estudar e buscar uma oportunidade real na área.
 
 ---
 
-## 💡 Motivação
-
-Desde jovem me interesso por tecnologia. Quando experienciei falhas em softwares, especialmente em jogos, passei a querer entender como os erros acontecem e como preveni-los. Isso me motivou a estudar e buscar uma oportunidade real na área de QA.
-
----
-
-## 🚀 Objetivo
+## 🚀 Objetivo  ##
 
 Conseguir uma oportunidade de **Estágio QA** para aplicar meus conhecimentos, aprender com profissionais da área, colaborar com a equipe e crescer profissionalmente junto à empresa.
 
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-- ✅ Selenium WebDriver
-- ✅ Cypress
-- ✅ Postman/SQL
-- ✅ Git e GitHub
-- ✅ Java / JavaScript
-- ✅ VSCode / Eclipse
-- ✅ Trello e Jira
-- ✅ Agile - Scrum e Kanban
-- ✅ JUnit / TestNG
-
-
-
-## 📂 Projetos
-
-Aqui você encontrará repositórios com testes automatizados.
-
-## 📬 Contato
+## 📬 Contato  ## 
 
 - 📧 thalesponce1995@gmail.com 
 - 📱 (11) 96623-4195
 - 🌐 [https://www.linkedin.com/feed/) 
 
 
-🧡 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como QA!
+🧡 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução!
 
 
