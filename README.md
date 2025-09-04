@@ -1,6 +1,6 @@
 # 👋 Olá! Eu Me chamo Thales Ponce
 
-🎯Estágio em Análise e Desenvolvimento de Sistemas, com foco em aprendizado contínuo,
+🎯Sou estudante de  Análise e Desenvolvimento de Sistemas, em busca de estágio com foco em aprendizado contínuo,
 diagnóstico de problemas e implementação de soluções tecnológicas que contribuam para a
 inovação e eficiência da empresa.
 
